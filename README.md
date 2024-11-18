@@ -1,4 +1,4 @@
-# React + Vite Monster Hunter Proyect Page
+# React + Vite Monster Hunter Project Page
 
 This is a personal project currently under development using React + Vite.
 It utilizes a database from (https://github.com/gatheringhallstudios/MHWorldData/tree/master), for which I generated an API to connect to my project.
